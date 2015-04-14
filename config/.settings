@@ -1,0 +1,19 @@
+{
+    "username": "leonardo@lbsantos.com.br", 
+    "environment": "production", 
+    "project_name": "WareHouse", 
+    "workspace": "C:/Salesforce", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "IB00XUTQ70N1YUXIMC5Y2POXXDZKSXTZ", 
+    "metadata_container": "1dcj0000000heJKAAY", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
