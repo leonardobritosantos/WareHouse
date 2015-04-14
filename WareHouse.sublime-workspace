@@ -1,0 +1,620 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"si",
+				"PUBLIC size() 	Integer"
+			],
+			[
+				"Owner",
+				"Owner"
+			],
+			[
+				"Grupo",
+				"GrupoRelacionamentoDAO	[Custom Apex Class]"
+			],
+			[
+				"contrato",
+				"Contrato__c"
+			],
+			[
+				"Contr",
+				"Contratos__r"
+			],
+			[
+				"Fatura",
+				"Faturamento__c"
+			],
+			[
+				"Fatur",
+				"FaturamentoBO"
+			],
+			[
+				"fa",
+				"Faturamento__c"
+			],
+			[
+				"Fatu",
+				"Faturamento__c"
+			],
+			[
+				"Accou",
+				"Account"
+			],
+			[
+				"i",
+				"id"
+			],
+			[
+				"ow",
+				"OwnerId"
+			],
+			[
+				"is",
+				"PUBLIC isBlank(String str) 	Boolean"
+			],
+			[
+				"getin",
+				"getInstance"
+			],
+			[
+				"Grupor",
+				"GrupoRelacionamentoDAO"
+			],
+			[
+				"Gru",
+				"GrupoRelacionamento__c"
+			],
+			[
+				"gru",
+				"grupoRel"
+			],
+			[
+				"grupo",
+				"grupoRelacionamento"
+			],
+			[
+				"dataUltimoFaturamentoA",
+				"dataUltimoFaturamentoAnterior"
+			],
+			[
+				"datafa",
+				"dataUltimoFaturamentoAnterior"
+			],
+			[
+				"data",
+				"dataUltimoFaturamentoAnterior"
+			],
+			[
+				"valor",
+				"valorFaturamentoAtual"
+			],
+			[
+				"valorfa",
+				"valorFaturamentoAnterior"
+			],
+			[
+				"get",
+				"PUBLIC get(ANY key) 	String"
+			],
+			[
+				"lstcon",
+				"lstContas"
+			],
+			[
+				"setIds",
+				"setIdsContas"
+			],
+			[
+				"Fat",
+				"Faturamento__c"
+			],
+			[
+				"cnp",
+				"Numero_da_raiz_do_cnpj__c"
+			],
+			[
+				"Is",
+				"PUBLIC isBlank(String str) 	Boolean"
+			],
+			[
+				"Param",
+				"ParametroFaturamentoBO"
+			],
+			[
+				"Para",
+				"ParamFaturamento__c"
+			],
+			[
+				"ParametroF",
+				"ParametroFaturamentoDAO"
+			],
+			[
+				"lstpa",
+				"lstParamFaturamento"
+			],
+			[
+				"Prioritaria",
+				"RegraPrioritaria__c"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cl",
+				"click〔function〕"
+			],
+			[
+				"getUs",
+				"PUBLIC getUserId() 	String"
+			],
+			[
+				"Sobj",
+				"SObjectInstance"
+			],
+			[
+				"Contrato",
+				"ContratoDAO"
+			],
+			[
+				"Contrt",
+				"ContratoBO"
+			],
+			[
+				"on",
+				"onclick	String"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"new pro",
+				"HaoIDE: New Project"
+			],
+			[
+				"new pr",
+				"HaoIDE: New Project"
+			],
+			[
+				"new ap",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"new ape",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"new tr",
+				"MavensMate: New Apex Trigger"
+			],
+			[
+				"new apex",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"minima",
+				"View: Toggle Minimap"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Salesforce/WareHouse"
+	],
+	"file_history":
+	[
+		"/C/Salesforce/Alelo/src/classes/AccountBO.cls",
+		"/C/Salesforce/Alelo/src/classes/GrupoRelacionamentoBO.cls",
+		"/C/Users/RE032291/Downloads/RecruitingApp-9_0/RecruitingApp-9_0/CandidateMapSample.page",
+		"/C/Users/RE032291/Downloads/RecruitingApp-9_0/RecruitingApp-9_0/MassUpdateStatusSample.page",
+		"/C/Users/RE032291/Downloads/RecruitingApp-9_0/RecruitingApp-9_0/PublicJobsSample.page",
+		"/C/Salesforce/Alelo/src/classes/AccountDAO.cls",
+		"/C/Salesforce/Alelo/src/classes/FaturamentoBO.cls",
+		"/C/Salesforce/Alelo/src/classes/FaturamentoDAO.cls",
+		"/C/Salesforce/Alelo/src/classes/AccountTrigger.cls",
+		"/C/Salesforce/Alelo/src/triggers/AccountTrigger.trigger",
+		"/C/Salesforce/Alelo/src/classes/GrupoRelacionamentoTrigger.cls",
+		"/C/Salesforce/Alelo/src/classes/ContratoDAO.cls",
+		"/C/Salesforce/Alelo/src/classes/ContratoBO.cls",
+		"/C/Salesforce/Alelo/src/triggers/GrupoRelacionamentoTrigger.trigger",
+		"/C/Salesforce/Alelo/src/classes/GrupoRelacionamentoDAO.cls",
+		"/C/Salesforce/Alelo/src/classes/GrupoRelacionamentoWithoutSharingDAO.cls",
+		"/C/Salesforce/Alelo/src/triggers/TriggerAccount.trigger",
+		"/C/Salesforce/Alelo/src/classes/AccountWithoutSharingDAO.cls",
+		"/C/Salesforce/Alelo/src/classes/ContactBO.cls",
+		"/C/Salesforce/Alelo/src/pages/EditarAtribuicaoFaturamento.page",
+		"/C/Salesforce/Alelo/src/classes/EditarAtribuicaoFaturamentoController.cls",
+		"/C/Salesforce/Alelo/src/classes/ParametroFaturamentoBO.cls",
+		"/C/Salesforce/Alelo/src/classes/TriggerExecutavel.cls",
+		"/C/Salesforce/Alelo/src/classes/ParametroFaturamentoDAO.cls",
+		"/C/Salesforce/Alelo/src/classes/LeadDAO.cls",
+		"/C/Salesforce/Alelo/src/classes/LeadBO.cls",
+		"/C/Salesforce/Alelo/src/triggers/TriggerLead.trigger",
+		"/C/Salesforce/Alelo/src/classes/SObjectInstance.cls",
+		"/C/Salesforce/Alelo/src/classes/AccountBOTest.cls",
+		"/C/Salesforce/Alelo/src/triggers/AccountVerificaProprietario.trigger",
+		"/C/Salesforce/Alelo/src/classes/FaturamentoAtribuiProprietarioTest.cls",
+		"/C/Salesforce/Alelo/src/classes/ContratoBOTest.cls",
+		"/C/Salesforce/Alelo/src/classes/SObjectDAO.cls",
+		"/C/Salesforce/Alelo/src/classes/ContactDAO.cls",
+		"/C/Salesforce/Alelo/src/classes/Scheduler_ExecucaoRetencaoDiaria.cls",
+		"/C/Salesforce/Alelo/src/pages/ConsultarAtribuicaoFaturamento.page",
+		"/C/Salesforce/Alelo/src/classes/ConsultarAtribuicaoFaturamentoController.cls",
+		"/C/Salesforce/Alelo/src/classes/AccountTeamMemberDAO.cls",
+		"/C/Users/RE032291/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/RE032291/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/RE032291/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/RE032291/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/RE032291/AppData/Roaming/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/C/Users/RE032291/AppData/Roaming/Sublime Text 3/Packages/MavensMate/mavensmate.sublime-settings"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"NumberOfEmployees",
+			"alterarProprietarioDosObjetosDaConta",
+			"lstContasPorGrupoRelacionamento",
+			"buscarPorIdsContas",
+			"auxOwnerMaiorFaturamento",
+			"atualizarGrupoRelacionamentoPorDadosFaturamentoContas",
+			"buscarPorIdsContas",
+			"getAccountsByRaizCnpj",
+			"atribuirGrupoRelacionamento",
+			"grupoRelacionamentoBO",
+			"update",
+			"atribuirGrupoRelacionamento",
+			"deParaAgencia",
+			"atualizaComboDeTipoAgencias",
+			"valida",
+			"deParaAgencia",
+			"deParaAgencia\n",
+			"deParaAgencia\ndeParaAgencia",
+			"deParaAgencia",
+			"deParaAgenciad",
+			"deParaAgencia",
+			"chkAgencia",
+			"vendedorP",
+			"vendedorPF",
+			"atualizaTipoAgencia",
+			"vendedorPF",
+			"deParaAgencia",
+			"showVendedorPF",
+			"vendedorPF",
+			"lstOpcoesTipoAgencia",
+			"toggle",
+			"Já existe um registro de Atribuição de Faturamento com esta combinação.\n",
+			"ordem",
+			"deParaAgencia",
+			"where",
+			"reRender",
+			"canalDeEntradaSelecionado",
+			"canalDeAtribuicaoSelecionado",
+			"deParaAgencia",
+			"vendedorPF",
+			"chkAgencia",
+			"valida",
+			"chkAgencia",
+			"inputTabelaDeParaAgencias",
+			"Tabela De-Para de Agências/Consultor",
+			"maskMoney-moeda",
+			"ordem",
+			"backgroundLoad",
+			"reRender",
+			"buscarLeadByCnpj",
+			"TipoVenda__c",
+			"alterarTipoVendaDosContratosAssociados",
+			"add",
+			"alterarTipoVendaDosContratosAssociados",
+			"conta__c",
+			"getContratosByContas",
+			"AlteracaoEncarteiramento__c",
+			"encar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "WareHouse.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"grurebo",
+				"src\\classes\\GrupoRelacionamentoBO.cls"
+			],
+			[
+				"acco",
+				"src\\classes\\AccountBO.cls"
+			],
+			[
+				"actri",
+				"src\\classes\\AccountTrigger.cls"
+			],
+			[
+				"accda",
+				"src\\classes\\AccountDAO.cls"
+			],
+			[
+				"accoda",
+				"src\\classes\\AccountDAO.cls"
+			],
+			[
+				"accot",
+				"src\\classes\\AccountTrigger.cls"
+			],
+			[
+				"accoun",
+				"src\\classes\\AccountBO.cls"
+			],
+			[
+				"gruporelacionamentotrigger",
+				"src\\classes\\GrupoRelacionamentoTrigger.cls"
+			],
+			[
+				"grupor",
+				"src\\classes\\GrupoRelacionamentoBO.cls"
+			],
+			[
+				"contra",
+				"src\\classes\\ContratoBO.cls"
+			],
+			[
+				"contrbo",
+				"src\\classes\\ContratoBO.cls"
+			],
+			[
+				"fatubo",
+				"src\\classes\\FaturamentoBO.cls"
+			],
+			[
+				"accodao",
+				"src\\classes\\AccountDAO.cls"
+			],
+			[
+				"accobo",
+				"src\\classes\\AccountBO.cls"
+			],
+			[
+				"gruporelbo",
+				"src\\classes\\GrupoRelacionamentoBO.cls"
+			],
+			[
+				"acctr",
+				"src\\classes\\AccountTrigger.cls"
+			],
+			[
+				"accowi",
+				"src\\classes\\AccountWithoutSharingDAO.cls"
+			],
+			[
+				"gruretr",
+				"src\\triggers\\GrupoRelacionamentoTrigger.trigger"
+			],
+			[
+				"fatu",
+				"src\\classes\\FaturamentoDAO.cls"
+			],
+			[
+				"fatb",
+				"src\\classes\\FaturamentoBO.cls"
+			],
+			[
+				"fatuda",
+				"src\\classes\\FaturamentoDAO.cls"
+			],
+			[
+				"accounttrigger",
+				"src\\classes\\AccountTrigger.cls"
+			],
+			[
+				"fatbo",
+				"src\\classes\\FaturamentoBO.cls"
+			],
+			[
+				"editaratribuicaofaturamentocontroller",
+				"src\\classes\\EditarAtribuicaoFaturamentoController.cls"
+			],
+			[
+				"editaratribuicaofaturamento",
+				"src\\pages\\EditarAtribuicaoFaturamento.page"
+			],
+			[
+				"trile",
+				"src\\triggers\\TriggerLead.trigger"
+			],
+			[
+				"accdao",
+				"src\\classes\\AccountDAO.cls"
+			],
+			[
+				"account",
+				"src\\classes\\AccountBOTest.cls"
+			],
+			[
+				"sobj",
+				"src\\classes\\SObjectInstance.cls"
+			],
+			[
+				"contratodao",
+				"src\\classes\\ContratoDAO.cls"
+			],
+			[
+				"consultaratribuicaofaturamentocontroller",
+				"src\\classes\\ConsultarAtribuicaoFaturamentoController.cls"
+			],
+			[
+				"consultaratribuicaofaturamento",
+				"src\\pages\\ConsultarAtribuicaoFaturamento.page"
+			],
+			[
+				"accbot",
+				"src\\classes\\AccountBOTest.cls"
+			],
+			[
+				"accountbo",
+				"src\\classes\\AccountBO.cls"
+			],
+			[
+				"accountteammemberdao",
+				"src\\classes\\AccountTeamMemberDAO.cls"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
