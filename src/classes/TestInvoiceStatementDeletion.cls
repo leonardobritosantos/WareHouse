@@ -13,6 +13,7 @@ private class TestInvoiceStatementDeletion
         // Verify invoice with a line item didn't get deleted.
         System.assert(!result.isSuccess());
     }
+
     static testmethod void TestDeleteInvoiceWithoutLineItems() 
     {
         // Create an invoice statement without a line item and try to delete it
@@ -23,6 +24,7 @@ private class TestInvoiceStatementDeletion
         // Verify invoice without line items got deleted.
         System.assert(result.isSuccess());
     }
+    
     static testmethod void TestBulkDeleteInvoices() 
     {
         // Create two invoice statements, one with and one with out line items
